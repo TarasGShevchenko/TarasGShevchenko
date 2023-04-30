@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Taras Shevchenko 
 ## A developer from 🇺🇦🇺🇦🇺🇦 !!
 
-[<div class="tenor-gif-embed" data-postid="3757206632821927062" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/programmers-go-internet-technologists-researching-technologist-gif-3757206632821927062">Programmers Go Internet Sticker</a>from <a href="https://tenor.com/search/programmers-stickers">Programmers Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>](https://tenor.com/eDIc1UjbaRK.gif)
+<img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" height="240" width="240">
 
 ---
 
