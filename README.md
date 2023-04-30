@@ -39,4 +39,4 @@ I'm a Front-end developer with experience in developing web applications and tra
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarasgshevchenko&theme=dark&background=000000&" alt="tarasgshevchenko" /></p>
 
-![Views](https://komarev.com/ghpvc/?username=tarasgshevchenko&color=blueviolet&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=tarasgshevchenko&label=PROFILE+VIEWS&color=blueviolet)
