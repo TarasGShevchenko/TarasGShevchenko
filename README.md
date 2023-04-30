@@ -14,7 +14,7 @@ I'm a Front-end developer with experience in developing web applications and tra
 
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/tarasgsheva/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-  alt.svg"    alt="www.linkedin.com/in/tarasgsheva/" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-  alt.svg" alt="www.linkedin.com/in/tarasgsheva/" height="30" width="40" />
   </a>
   <a href="https://t.me/tgsheva" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
