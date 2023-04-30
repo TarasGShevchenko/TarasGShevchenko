@@ -1,5 +1,6 @@
 
-# Hi there 👋, I'm ![Taras Shevchenko], a developer from 🇺🇦🇺🇦🇺🇦 !!
+# Hi there 👋, I'm Taras Shevchenko 
+## A developer from 🇺🇦🇺🇦🇺🇦 !!
 
 ---
 
@@ -15,15 +16,10 @@ I'm a Front-end developer with experience in developing web applications and tra
 
 ### ⚙️ GitHub stats:
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=TarasGShevchenko&theme=dark&background=000000" alt="webDev's Github stats"       />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?      username=TarasGShevchenko&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarasgshevchenko&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="tarasgshevchenko" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarasgshevchenko&theme=dark&background=000000&show_icons=true&locale=en" alt="tarasgshevchenko" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarasgshevchenko&theme=dark&background=000000&" alt="tarasgshevchenko" /></p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TarasGShevchenko)
