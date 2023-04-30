@@ -4,8 +4,6 @@
 
 <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" height="240" width="240">
 
----
-
 ### :man_technologist: About me:
 
 I'm a Front-end developer with experience in developing web applications and trading platforms. I am committed to constantly improving my skills and learning new technologies. I am a good communicator and focused on effective collaboration within the team and with clients.
@@ -41,4 +39,4 @@ I'm a Front-end developer with experience in developing web applications and tra
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarasgshevchenko&theme=dark&background=000000&" alt="tarasgshevchenko" /></p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tarasgshevchenko.visitor-badge)
+![Views](https://komarev.com/ghpvc/?username=tarasgshevchenko&color=blueviolet&label=PROFILE+VIEWS)
