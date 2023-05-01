@@ -6,14 +6,7 @@
 
 ### :man_technologist: About me:
 
-<div>
-  <style>
-    .font {
-      font-family: 'Brush Script MT';
-    }
-  </style>
-  <span class="font">I'm a Front-end developer with experience in developing web applications and trading platforms. I am committed to constantly improving my skills and learning new technologies. I am a   good communicator and focused on effective collaboration within the team and with clients.</span>
-</div>
+`I'm a Front-end developer with experience in developing web applications and trading platforms. I am committed to constantly improving my skills and learning new technologies. I am a  good communicator and focused on effective collaboration within the team and with clients.`
   
 ---
 
